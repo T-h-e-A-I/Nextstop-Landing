@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import {
-  Bus,
   BarChart2,
   Map,
   Users,
